@@ -50,6 +50,12 @@ Then run:
 ./lazywslcontainer.exe
 ```
 
+## Screenshots
+
+![containers](docs/img/01.jpg)
+![stats](docs/img/02.jpg)
+![inspect](docs/img/03.jpg)
+
 ## Keybindings
 
 See [docs/keybindings.md](docs/keybindings.md) for the full list.
