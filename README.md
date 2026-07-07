@@ -85,4 +85,4 @@ for what's done and what's planned.
 
 ## License
 
-[MIT](LICENSE) © Gregor Sullivan
+[MIT](LICENSE) © Gregor Pilar
