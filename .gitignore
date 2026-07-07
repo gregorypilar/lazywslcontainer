@@ -1,0 +1,19 @@
+# Build output
+/lazywslcontainer
+/lazywslcontainer.exe
+/dist/
+
+# Go workspace files
+/go.work
+/go.work.sum
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Test artifacts
+coverage.txt
+*.out
